@@ -1,0 +1,8 @@
+{
+  "appId": "com.gunlugum.app",
+  "appName": "Günlüğüm",
+  "webDir": "www",
+  "backgroundColor": "#f3f6fc",
+  "server": { "androidScheme": "https" },
+  "android": { "backgroundColor": "#f3f6fc" }
+}

@@ -1,0 +1,10 @@
+GÜNLÜĞÜM APK (GitHub ile, bilgisayara Android Studio kurmadan)
+
+1) github.com'da ücretsiz hesap aç, "New repository" ile boş bir depo oluştur (Private olabilir).
+2) Bu klasörün İÇİNDEKİLERİ depoya yükle (Add file > Upload files). ".github" klasörü de dahil olmalı.
+   Gizli klasör görünmüyorsa: Windows'ta Görünüm > Göster > Gizli öğeler.
+3) Depoda "Actions" sekmesi > "APK olustur" > bitmesini bekle (3-6 dk).
+4) Biten çalışmaya tıkla > aşağıda "Artifacts" > gunlugum-apk indir > zip'i aç > app-debug.apk.
+5) Telefona at, aç. "Bilinmeyen kaynaklardan yüklemeye izin ver" iste. İzin ver.
+
+NOT: APK'da bulut senkronu çalışmaz, veri telefonda yerel kalır. Eski verini Yedek sekmesinden alıp APK'da içe aktar.
